@@ -20,8 +20,8 @@ This is a complete, real-time credit underwriting application designed for a ban
 | **Database** | SQLModel, SQLite              | Clean, Pythonic database interaction, simple for development.        |
 | **Frontend** | HTML, CSS, Vanilla JavaScript | Lightweight, fast, and universally compatible with no complex build steps. |
 
-Check out the project here 👉 ai-credit-underwriting-system.onrender.com
-
+## Check out the project here 👉 https://ai-credit-underwriting-system.onrender.com/
+## Watch the project demo here 👉 https://drive.google.com/file/d/1HUjIm4oGDf9BhR7Thco1qSdC4UAkxo6U/view?usp=drive_link
 ## Local Setup & Run Instructions
 
 **1. Backend Setup:**
